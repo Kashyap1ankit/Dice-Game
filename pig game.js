@@ -2,8 +2,8 @@
 
 //Getting the name of the players from the user
 
-const player1 = alert("Player1 name");
-const player2 = alert("Player2 name");
+const player1 = prompt("Player1 name");
+const player2 = prompt("Player2 name");
 
 // Defining the variables to be used further
 
